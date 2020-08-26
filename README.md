@@ -4,8 +4,8 @@ This repository contains "Expert Advisors" to generate trade signals automatical
 
 ## Engulfing
 
-Ben Whittaker, please provide description here
+This signal is a measure of directional momentum in price.
 
 ## Sweep + CM
 
-Ben Whittaker, please provide description here
+This signal is a measure of liquidity engineering and manipulation in price.
